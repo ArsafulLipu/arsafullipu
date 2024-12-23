@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsaful Lipu</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 ## 🌟 About Me
 
 - 🎓 Final-year Computer Science student.
@@ -29,7 +30,7 @@
 <a href="https://linkedin.com/in/arsaful-lipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsaful-lipu" height="30" width="40" /></a>
 <a href="https://fb.com/arsafullipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsafullipu" height="30" width="40" /></a>
 <a href="https://instagram.com/arsaful_lipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsaful_lipu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@arsafullipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arsafullipu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@arsafullipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arsafullipu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arsafullipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsafullipu" height="30" width="40" /></a>
 </p>
 
