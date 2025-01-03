@@ -9,11 +9,23 @@
 - 💻 Passionate about **web development**, **open-source contributions**, and building impactful projects.
 - 📚 Currently learning **React.js**, **backend development**, and **mobile app development**.
 - 🌱 Working on **Miskat-Mart** and **BOOKSHARE**, my final-year projects.
-- 💡 Always exploring new technologies and frameworks to enhance my skills.
+- 🔧 Exploring new technologies to enhance my skills.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arsafullipu&label=Profile%20views&color=0e75b6&style=flat" alt="arsafullipu" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arsafullipu&theme=dracula" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔧 Skills
 
 ### Programming Languages
 - **JavaScript**, **HTML**, **CSS**
@@ -29,47 +41,26 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsafullipu&show_icons=true&locale=en" alt="arsafullipu" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsafullipu" alt="arsafullipu" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsafullipu&show_icons=true&locale=en&layout=compact" alt="arsafullipu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arsafullipu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsafullipu&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsafullipu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## ✨ Featured Projects
 
-- **Email**: arsafullipu@gmail.com
-
-### Connect with Me
-<p>
-  <a href="https://twitter.com/arsaful_lipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/arsaful-lipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/arsafullipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/arsaful_lipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@arsafullipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/arsafullipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+- **[Miskat-Mart](https://github.com/arsafullipu/miskat-mart)**: A React Native eCommerce app with a focus on user experience and design.
+- **[BOOKSHARE](https://github.com/arsafullipu/bookshare)**: A platform for sharing books with features like user profiles and community engagement.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tools and Technologies
 
-<p>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
@@ -105,5 +96,33 @@
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## 📧 Contact Me
+
+- **Email**: arsafullipu@gmail.com
+
+### Connect with Me
+<p>
+  <a href="https://twitter.com/arsaful_lipu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/arsaful-lipu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/arsafullipu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/arsaful_lipu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@arsafullipu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/arsafullipu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
